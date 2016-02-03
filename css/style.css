@@ -1,0 +1,93 @@
+*{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+/*HEADER*/
+#search input[type="text"] {
+    border: 1px solid #d1d1d1;
+    color: black;
+    width: 170px;
+    height: 40px;
+}
+.formsize{
+    width: 170px;
+    height: 40px;
+    position: relative;
+}
+header{
+    margin: 0 auto;
+    color: #fff;
+    text-align: left; 
+}
+.logo{
+    width: 300px;
+    height: auto;
+}
+/*SECTION BANNER*/
+#banner{
+    background-image: url(../img/banner.jpg);
+    background-color: #383838;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 400px;
+}
+.b1{
+    background-color: #DFB636;
+
+}
+.b2{
+    background-color: #BB7B29;    
+}
+.ico{
+    width: 30px;
+    height: 30px;
+    position: relative;
+}
+.big{
+    margin:25px;
+    width: 72%;
+}
+.line{
+    border-top: 1px solid silver;
+    width: 100%;
+    margin: 10px 0;
+}
+.AllAge{
+    border: 2px solid #3BCF68;
+    border-radius: 5px;
+    padding: 7px 10px;
+    color: #3BCF68;
+    display: inline-block;
+}
+.box{
+    width: 9%;
+    position: relative;
+    top: 197px;
+    left: 246px;
+}
+
+/*PROMO*/
+h4{
+    font-size: 163%;
+}
+.m-sty{
+    width: 100%;
+    font-weight: lighter;
+    font-size: 162%;
+    text-align: left;
+}
+h2{
+    font-size: 241%;
+}
+/*Footer*/
+footer h2{
+    font-size: 100%
+}
+footer h3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+footer h5{
+    padding-top: 5px;
+}
